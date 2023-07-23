@@ -1,0 +1,10 @@
+Mateusz Ozimek
+mateusz.ozimek.dokt@pw.edu.pl
+GF p.6
+if.pw.edu.pl/~ozimek
+
+Sprawozdanie:
+1) Wstęp - cel ćw + wykorzystanie oprogramowanie (wersja python + biblioteki)
+2) kod źródłowy (wyslać pdf + kod źródłowy)
+3) Wyniki
+4) Wnioski
